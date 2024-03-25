@@ -3,4 +3,4 @@ title: haron Wambua
 type: authors
 github: https://github.com/tetie
 ---
-Haron Wambua is an undergraduate student undertaking his Bachelor of Science in Computer Science. He is interested in Neural networks, IOT, Artificial Intelligence and Java programming. He likes swimming and watching football.
+Haron Wambua has successfully graduated. He is a proficient and accomplished computer scientist, having earned his Bachelor of Science degree in Computer Science. His expertise includes Neural networks, IOT, Artificial Intelligence, programming among other commputing skills. Additionally, he excels as a web developer. In his leisure time, he indulges in swimming and follows football avidly.
